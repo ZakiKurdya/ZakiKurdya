@@ -64,4 +64,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakikurdya&label=Profile%20views&color=0e75b6&style=flat-square" alt="zakikurdya" /> </p>
+[![](https://visitcount.itsvg.in/api?id=ZakiKurdya&pretty=true)](https://github-visitor-counter-pro.vercel.app)
