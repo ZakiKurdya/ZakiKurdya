@@ -1,8 +1,5 @@
 ## Hello, I'm Zaki Kurdya 👋
 
-*   🌍  I'm based in Palestine
-*   ✉️  You can contact me at [zkurdya@students.iugaza.edu.ps](mailto:zkurdya@students.iugaza.edu.ps)
-*   🚀  I’m currently working on an **Automated ECG interpretation service**
 *   🤝  I'm open to collaborating on interesting projects as a developer or data scientist
 *   ⚡  **Fun fact:** I can solve a Rubik's cube in 30 seconds
 
