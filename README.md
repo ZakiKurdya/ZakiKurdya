@@ -4,7 +4,7 @@
 - 👀 I’m interested in AI, Data Science, and Cloud Computing
 - 🤝 I'm open to collaborating on interesting projects as a developer or data scientist
 - 📫 How to reach me? by [email](mailto:zakikurdya@gmail.com) 
-- ⚡ Fun fact: I can solve a Rubik's cube in 50 seconds   
+- ⚡ Fun fact: I love solving twisty puzzles!
 
 <!--
 ### 🌐 Socials:
