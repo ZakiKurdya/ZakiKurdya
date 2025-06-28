@@ -1,8 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=ZakiKurdya&pretty=true)](https://github-visitor-counter-pro.vercel.app)
 
 - 👋 Hi, I’m @zakikurdya
-- 👀 I’m interested in AI, Data Science, and Cloud Computing
-- 🤝 I'm open to collaborating on interesting projects as a developer or data scientist
+- 👀 I’m interested in Generative AI, Data Science, and Cloud Computing
 - 📫 How to reach me? by [email](mailto:zakikurdya@gmail.com) 
 - ⚡ Fun fact: I love solving twisty puzzles!
 
